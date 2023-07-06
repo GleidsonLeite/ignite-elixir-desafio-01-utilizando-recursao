@@ -1,0 +1,21 @@
+{
+  "excluded": [
+    {
+      "describe": "call/1",
+      "file": "c:/Users/gleds/Documents/estudos/ignite/elixir/ignite-elixir-desafio-01-utilizando-recursao/test/list_lenght_test.exs",
+      "line": 5
+    }
+  ],
+  "failed": [],
+  "invalid": [],
+  "passed": [
+    {
+      "describe": "call/1",
+      "file": "c:/Users/gleds/Documents/estudos/ignite/elixir/ignite-elixir-desafio-01-utilizando-recursao/test/list_lenght_test.exs",
+      "line": 15,
+      "module": "Elixir.ListLengthTest",
+      "test": "test call/1 passing an empty list"
+    }
+  ],
+  "skiped": []
+}
